@@ -4,4 +4,6 @@
 # Python
 *.pyc
 
+# ML
+*.joblib
 
